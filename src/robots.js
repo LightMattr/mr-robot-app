@@ -1,62 +1,62 @@
 export const robots = [
   {
     id: 1,
-    name: 'Leanne Graham',
-    username: 'Bret',
-    email: 'Sincere@april.biz'
+    character: 'Elliot Alderson',
+    image: "https://m.media-amazon.com/images/M/MV5BYzllMjE1MTItZjQ5Mi00NTU2LWFiMTgtMGNkNzlhYzVkZmMzXkEyXkFqcGdeQXVyNjc5Mjg0NjU@._V1_.jpg",
+    actor: 'Rami Malek'
   },
   {
     id: 2,
-    name: 'Ervin Howell',
-    username: 'Antonette',
-    email: 'Shanna@melissa.tv'
+    character: 'Mr. Robot',
+    image: "https://m.media-amazon.com/images/M/MV5BZDRiZTYwZjEtNmEyYy00NGQxLWE3MTAtNjMxM2NlNDRiYjkzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+    actor: 'Christian Slater'
   },
   {
     id: 3,
-    name: 'Clementine Bauch',
-    username: 'Samantha',
-    email: 'Nathan@yesenia.net'
+    character: 'Darlene',
+    image: "https://m.media-amazon.com/images/M/MV5BMTYwNDI3MDA1Ml5BMl5BanBnXkFtZTgwMDYwNzA5OTE@._V1_.jpg",
+    actor: 'Carly Chaikin'
   },
   {
     id: 4,
-    name: 'Patricia Lebsack',
-    username: 'Karianne',
-    email: 'Julianne.OConner@kory.org'
+    character: 'Tyrell Wellick',
+    image: "https://m.media-amazon.com/images/M/MV5BMTU0MjU1NDk1MF5BMl5BanBnXkFtZTgwNTU1MTExMDI@._V1_.jpg",
+    actor: 'Martin Wallström'
   },
   {
     id: 5,
-    name: 'Chelsey Dietrich',
-    username: 'Kamren',
-    email: 'Lucio_Hettinger@annie.ca'
+    character: 'Angela Moss',
+    image: "https://m.media-amazon.com/images/M/MV5BMDYxNjcwYTktNGE3Mi00ZmNhLWFiNWYtMzExN2E0YzcyNDA5XkEyXkFqcGdeQXVyNjc5Mjg0NjU@._V1_.jpg",
+    actor: 'Portia Doubleday'
   },
   {
     id: 6,
-    name: 'Mrs. Dennis Schulist',
-    username: 'Leopoldo_Corkery',
-    email: 'Karley_Dach@jasper.info'
+    character: 'Phillip Price',
+    image: "https://m.media-amazon.com/images/M/MV5BMzg4OTc1MTAxMV5BMl5BanBnXkFtZTgwMTM3ODMyOTE@._V1_.jpg",
+    actor: 'Michael Cristofer'
   },
   {
     id: 7,
-    name: 'Kurtis Weissnat',
-    username: 'Elwyn.Skiles',
-    email: 'Telly.Hoeger@billy.biz'
+    character: 'Dominique DiPierro',
+    image: "https://m.media-amazon.com/images/M/MV5BMjExNDE0Mzc1Ml5BMl5BanBnXkFtZTgwNjI3ODMyOTE@._V1_.jpg",
+    actor: 'Grace Gummer'
   },
   {
     id: 8,
-    name: 'Nicholas Runolfsdottir V',
-    username: 'Maxime_Nienow',
-    email: 'Sherwood@rosamond.me'
+    character: 'Whiterose',
+    image: "https://m.media-amazon.com/images/M/MV5BMDAwM2RjZWMtMjcwNy00MGNhLWE4NzUtYTI5MDc5NDdmYmRhXkEyXkFqcGdeQXVyNTQ0NjQzNTE@._V1_.jpg",
+    actor: 'BD Wong'
   },
   {
     id: 9,
-    name: 'Glenna Reichert',
-    username: 'Delphine',
-    email: 'Chaim_McDermott@dana.io'
+    character: 'Joanna Wellick',
+    image: "https://m.media-amazon.com/images/M/MV5BMTY3MDQwMzIyMV5BMl5BanBnXkFtZTgwMzM3ODMyOTE@._V1_.jpg",
+    actor: 'Stephanie Corneliussen'
   },
   {
     id: 10,
-    name: 'Clementina DuBuque',
-    username: 'Moriah.Stanton',
-    email: 'Rey.Padberg@karina.biz'
+    character: 'Elliot\'s Mother',
+    image: "https://m.media-amazon.com/images/M/MV5BMTg0MzYzNzE0OF5BMl5BanBnXkFtZTgwNjcxMzA3OTE@._V1_.jpg",
+    actor: 'Vaishnavi Sharma'
   }
 ];

@@ -1,0 +1,31 @@
+.Scroll-container {
+  overflow: scroll;
+  padding-bottom: 10%;
+  max-height: 85vh;
+  min-height: 750px;
+}
+
+.Main-img {
+  height: 275px;
+  width: 275px;
+}
+
+.Main-card {
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: cover;
+}
+
+.Character-info {
+  background-image: linear-gradient(to bottom, rgba(208, 32, 38, 0), rgba(208, 32, 38, 1));
+  border-radius: 0 0 5px 5px;
+  padding: 12px 0 16px 0;
+}
+
+.Actor {
+  margin-bottom: 0px;
+}
+
+.Search-characters {
+  color: #fff;
+}
