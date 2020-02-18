@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/mr-robot-app/precache-manifest.ebb158b5585943104848ba6abe0f571d.js"
+  "/mr-robot-app/precache-manifest.9174138d2441f6866869400fcd06a9a3.js"
 );
 
 self.addEventListener('message', (event) => {

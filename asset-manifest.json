@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/mr-robot-app/static/css/main.ada0efde.chunk.css",
-    "main.js": "/mr-robot-app/static/js/main.731da017.chunk.js",
-    "main.js.map": "/mr-robot-app/static/js/main.731da017.chunk.js.map",
+    "main.js": "/mr-robot-app/static/js/main.ff66480b.chunk.js",
+    "main.js.map": "/mr-robot-app/static/js/main.ff66480b.chunk.js.map",
     "runtime-main.js": "/mr-robot-app/static/js/runtime-main.11bdb194.js",
     "runtime-main.js.map": "/mr-robot-app/static/js/runtime-main.11bdb194.js.map",
     "static/css/2.eb45ad44.chunk.css": "/mr-robot-app/static/css/2.eb45ad44.chunk.css",
     "static/js/2.9f933192.chunk.js": "/mr-robot-app/static/js/2.9f933192.chunk.js",
     "static/js/2.9f933192.chunk.js.map": "/mr-robot-app/static/js/2.9f933192.chunk.js.map",
     "index.html": "/mr-robot-app/index.html",
-    "precache-manifest.ebb158b5585943104848ba6abe0f571d.js": "/mr-robot-app/precache-manifest.ebb158b5585943104848ba6abe0f571d.js",
+    "precache-manifest.9174138d2441f6866869400fcd06a9a3.js": "/mr-robot-app/precache-manifest.9174138d2441f6866869400fcd06a9a3.js",
     "service-worker.js": "/mr-robot-app/service-worker.js",
     "static/css/2.eb45ad44.chunk.css.map": "/mr-robot-app/static/css/2.eb45ad44.chunk.css.map",
     "static/css/main.ada0efde.chunk.css.map": "/mr-robot-app/static/css/main.ada0efde.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.eb45ad44.chunk.css",
     "static/js/2.9f933192.chunk.js",
     "static/css/main.ada0efde.chunk.css",
-    "static/js/main.731da017.chunk.js"
+    "static/js/main.ff66480b.chunk.js"
   ]
 }
