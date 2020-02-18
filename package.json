@@ -12,7 +12,7 @@
     "tachyons": "^4.11.1"
   },
   "scripts": {
-    "start": "rserve -s build",
+    "start": "serve -s build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
